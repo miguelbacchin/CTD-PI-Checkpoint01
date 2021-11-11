@@ -2,7 +2,7 @@
 Microondas
 
 # Objetivo
-Precisamos desenvolver um menu para um microondas super veloz
+Precisamos desenvolver um menu para um micro-ondas super veloz
 
 # Instruções
       1 - Pipoca – 10 segundos (padrão);
